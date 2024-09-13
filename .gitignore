@@ -1,0 +1,8 @@
+
+lib/aarch64-darwin/
+
+mnproject.app/Contents/
+
+backup/
+
+.DS_Store
